@@ -4,7 +4,7 @@ Browser-based writing, formatting, and publishing helpers for creators and marke
 
 ## Included
 
-- 12 browser-based tools.
+- 24 browser-based tools.
 - 4 guide pages.
 - Privacy, terms, disclaimer, contact, sitemap, robots, and GitHub Pages support.
 
